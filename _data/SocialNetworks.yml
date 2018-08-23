@@ -13,12 +13,12 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: ""
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: ""
   icon: "fa-twitter"
 
 reddit:
@@ -38,7 +38,7 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: ""
   icon: "fa-linkedin"
 
 xing:
