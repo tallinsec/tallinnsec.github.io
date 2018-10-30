@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-subtitle: Members of TallinnSec
+subtitle: Members
 ---
 
-Todo
+To become a TallinnSec member, contact us at tallinnsec@protonmail.com.

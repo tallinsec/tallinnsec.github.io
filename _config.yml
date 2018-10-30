@@ -25,6 +25,7 @@ description:
 navbar-links:
   Home:
   About: "about"
+  Speakers: "speakers"
   Sponsors: "sponsors"
   Members: "members"
   Contacts: "contacts"
