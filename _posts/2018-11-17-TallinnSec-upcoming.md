@@ -23,6 +23,9 @@ evolve-photo:
 ---
 <h3>Robotex International: TallinnSec meetup</h3>
 
+<p>Facebook event: <a href="https://www.facebook.com/events/2271961509748962/">https://www.facebook.com/events/2271961509748962/</a>
+</p>
+
 <p>
 This time as a special evening track as part of the biggest robotics conference in the world - <b>Robotex</b>! We are proud to present you our very own evening track, with greatest speakers and topics. We have managed to come to a whole new level of presenting technical IT security topics and none of that would happen without our super supportive sponsors from <a href="https://www.nixu.com/">Nixu Oyj</a>, <a href="https://home.kpmg.com/ee/en/home.html">KPMG Baltics OÜ</a> and of course <a href="https://www.livikostore.ee/en/product/jagermeister/">Jägermeister</a>.<br>
 
