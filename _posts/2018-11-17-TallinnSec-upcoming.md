@@ -1,7 +1,7 @@
 ---
 title: Robotex International - TallinnSec meetup
 subtitle: 30th November, 17.30 @Lift99
-image: /img/tallinnsec_robotex.png
+image: /img/logo.jpg
 show-avatar: true
 
 evolve-photo:
