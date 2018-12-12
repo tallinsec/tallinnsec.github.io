@@ -26,7 +26,7 @@ subtitle: Members
 <b>Membership fee:</b> 
  <ul>
     <li>
-       Membership fee should be paid once in every calendar year within the first quarter of a year (first quarter 01.01-31.12) 
+       Membership fee should be paid once in every calendar year within the first quarter of a year (first quarter 01.01-31.03) 
     </li>
     <li>
         When becoming a member, the very first membership fee should be paid within the first month beginning from the date on which TallinnSec board was contacted at tallinnsec@protonmail.com
