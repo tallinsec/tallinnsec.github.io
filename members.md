@@ -11,14 +11,12 @@ subtitle: Members
 <b>Becoming a member:</b>
  <ul>
     <li>
-        Download the membership form from: <a href="https://docs.google.com/document/d/139sUEDZyYWDJXKdxSLDtdv5y9APkyUGF7pRDZAqmwRc/edit?usp=sharing">here</a> and fill it up
-    </li>
-    <li>
-        Send it to us at <b>tallinnsec@protonmail.com</b>
+        Fill up the membership form at <a href="https://goo.gl/forms/W9Qs6bCGHmu5PR5I3">Google Forms</a>
     </li>
     <li>
         Wait for the approval message along with the membership fee payment information.
     </li>
+    <li>Congratulations, You are a full member!</li>
  </ul>
 </div>
 
