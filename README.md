@@ -1,6 +1,6 @@
 # tallinnsec.github.io
 
-This is the coolest place on teh internetz.
+TallinnSec website https://www.tallinnsec.ee
 
 
 
