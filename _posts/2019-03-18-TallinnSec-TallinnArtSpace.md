@@ -5,11 +5,9 @@ image: /img/tas.png
 show-avatar: true
 
 ---
-<h3>TallinnSec meetup at Tallinn Art Space</h3>
-
-<p>
+<h4>
 We are happy to announce that our this time meetup will be taking place at the <a href="https://www.tallinnartspace.com/">Tallinn Art Space</a> in the T1 mall (1 floor). The place was provided for us as part of the sponsorship for which we are very thankful! So we can fit all of you!<br>
-</p>
+</h4>
 
 <p>
 <b>Sign up</b> to the event: <a href="https://www.meetup.com/TallinnSec/events/259557070/">https://www.meetup.com/TallinnSec/events/259557070/</a><br>
