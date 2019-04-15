@@ -7,6 +7,9 @@ subtitle: Speakers
 ### Speakers lineup & presentations
 
 <ul>
+    <li><b>AV evasion 101</b> by Sebastian Feldmann - GoSecure (Canada) (<a href="https://drive.google.com/file/d/1cqqvefU815CKuuUQtA0YzHbN8I-qjpz0/view?usp=sharing">slides</a>)</li>
+    <li><b>Secrets in the Cloud - Leveraging cloud services for managing secrets</b> by Vlad Nikiforov - Glia (<a href="https://drive.google.com/file/d/1nOcqeYFnCkzOG1u9t5jg2okXD29keLY6/view?usp=sharing">slides</a>)</li>
+    <li><b>Introduction to shellcoding</b> by Silvia Väli - Clarified Security (Slides to be updated)</li>
     <li><b>Android piracy: I smell a RAT</b> by Marko Belzetski - Clarified Security (<a href="https://drive.google.com/file/d/1ipZZLkjpR1TcGgv3WTQgA-z2ZvILQA4l/view?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1TAU2QOF9MRoUmK7IgXlM7upmpYjd8mr2/view?usp=sharing">demo</a>)</li>
     <li><b>Cybersecurity in Military Systems</b> by Tarmo Aia - Telecommunication Specialist at TalTech, consulting cyber-engineer at the Estonian Defense Forces (<a href="https://drive.google.com/file/d/1DF_7-uN1vY8p4mhG1jR5hIV1q9TI9s1t/view?usp=sharing">slides</a>)</li>
     <li><b>The best practices in iOS development to avoid vulnerabilities</b> by Mari-Liis Sillat - iOS developer at Mooncascade (<a href="https://drive.google.com/file/d/1LLgfun_qII5uk1WHbgyCnaOPeAiqb54-/view?usp=sharing">slides</a>)</li>

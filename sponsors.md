@@ -19,15 +19,20 @@ evolve-photo0:
     alt: "Sponsor-Nixu"
     end_row: "true"
 
-  - aspect: "0.50"
-    url: "https://www.k-space.ee"
-    image_path: "/img/Sponsor_logos/kspace-logo.svg"
-    alt: "Sponsor-kspace"
+  - aspect: "0.33"
+    url: "https://www.tallinnartspace.com/"
+    image_path: "/img/Sponsor_logos/tas.png"
+    alt: "Sponsor-TAS"
 
-  - aspect: "0.50"
+  - aspect: "0.33"
     url: "https://home.kpmg/ee/en/home/about/offices/tallinn-1.html"
     image_path: "/img/Sponsor_logos/KPMGBaltics.png"
     alt: "Sponsor-KPMG-baltics"
+
+  - aspect: "0.33"
+    url: "https://www.k-space.ee"
+    image_path: "/img/Sponsor_logos/kspace-logo.svg"
+    alt: "Sponsor-kspace"
     end_row: "true"
 
 evolve-photo1:
@@ -72,7 +77,28 @@ evolve-photo1:
     image_path: "/img/Sponsor_logos/vismalogo.svg"
     alt: "Speaker-Visma"
     end_row: "true"
-    
+
+  - aspect: "0.33"
+    url: "https://www.clarifiedsecurity.com/"
+    image_path: "/img/Sponsor_logos/cs.png"
+    alt: "Speaker-ClarifiedSecurity"
+
+  - aspect: "0.33"
+    url: "https://mooncascade.com/"
+    image_path: "/img/Sponsor_logos/moon.jpg"
+    alt: "Speaker-Mooncascade"
+
+  - aspect: "0.33"
+    url: "https://www.glia.com/"
+    image_path: "/img/Sponsor_logos/glia.png"
+    alt: "Speaker-Glia"
+
+  - aspect: "0.33"
+    url: "https://www.gosecure.net/"
+    image_path: "/img/Sponsor_logos/gosecure.png"
+    alt: "Speaker-GoSecure"
+    end_row: "true"
+
 ---
 
 

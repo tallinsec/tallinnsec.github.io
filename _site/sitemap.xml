@@ -21,6 +21,10 @@
 <lastmod>2019-03-18T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2019-04-01-TallinnSec-Transferwise/</loc>
+<lastmod>2019-04-01T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/404</loc>
 </url>
 <url>
@@ -40,6 +44,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/sponsors/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/docs/ArticleofAssociation.pdf</loc>
