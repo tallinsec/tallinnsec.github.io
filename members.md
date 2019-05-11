@@ -21,17 +21,31 @@ subtitle: Members
 </div>
 
 <div>
-<b>Membership fee:</b> 
+<b>Membership fee:</b>
  <ul>
     <li>
-       Membership fee should be paid once in every calendar year within the first quarter of a year (first quarter 01.01-31.03) 
+       Membership fee should be paid once in every calendar year within the first quarter of a year (first quarter 01.01-31.03)
     </li>
     <li>
         When becoming a member, the very first membership fee should be paid within the first month beginning from the date on which TallinnSec board was contacted at tallinnsec@protonmail.com
     </li>
-  </ul>  
+  </ul>
 </div>
 </p>
+<hr>
 
-Article of association in Estonian and English can be found [here (EST)](/docs/Põhikiri.pdf) and [here (ENG)](/docs/ArticleofAssociation.pdf).
+<div>
+<div><b>Documents</b>:</div>
+Act of association:<br>
+<ul>
+    <li><a href="/docs/Põhikiri.pdf">MTÜ TallinnSec põhikiri</a></li>
+    <li><a href="/docs/ArticleofAssociation.pdf">MTÜ TallinnSec act of association</a></li>
+</ul>
 
+General meeting:<br>
+<ul>
+    <li><a href="/docs/gen2019_EST.pdf">28.04.2019 Üldkoosoleku protokoll</a></li>
+    <li><a href="/docs/gen2019_ENG.pdf">28.04.2019 General meeting 2019 protocol</a></li>
+</ul>
+
+</div>

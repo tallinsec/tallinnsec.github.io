@@ -9,6 +9,11 @@ evolve-photo0:
     alt: "Sponsor-HackerOne"
 
   - aspect: "0.33"
+    url: "https://transferwise.com/"
+    image_path: "/img/Sponsor_logos/transferwise.png"
+    alt: "Sponsor-transferwise"
+
+  - aspect: "0.33"
     url: "https://www.solita.fi/"
     image_path: "/img/Sponsor_logos/solita.svg"
     alt: "Sponsor-Solita"
