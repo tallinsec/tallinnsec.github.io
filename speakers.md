@@ -7,7 +7,7 @@ subtitle: Speakers
 ### Speakers lineup & presentations
 
 <ul>
-    <li><b>Fuzzing closed source GUI applications</b> by Sebastian Feldmann - GoSecure (<a href="https://drive.google.com/open?id=0ByKZq6sy4RvXY1AyTjBHb1Z3RExmVE9RRzBVaHRocWhIMFc4">slides</a>)</li>
+    <li><b>Fuzzing closed source GUI applications</b> by Sebastian Feldmann - GoSecure</li>
     <li><b>404 Not Found</b> by Jaanus Kääp - Clarified Security</li>
     <li><b>Anatomy of Advanced ATT&CKS</b> by Sami Ruohonen from F-Secure</li>
     <li><b>Screwing Blue Teamers on a daily basis</b> by Maksims Juvcenko - Transferwise</li>
