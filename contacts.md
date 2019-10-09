@@ -7,14 +7,17 @@ bigimg: /img/contact.jpg
 <h4>Serious matters:</h4>
 <ul>
     <li>
-            via e-mail: <a href="mailto:">tallinnsec@protonmail.com</a>
+            Meetup related: <a href="mailto:">tallinnsecmeetups@gmail.com</a>
+    </li>
+    <li>
+            Other: <a href="mailto:">tallinnsec@protonmail.com</a>
     </li>
 </ul>
 
 <h4>Social media:</h4>
 <ul>
     <li>
-        follow us on Twitter: <a href="https://twitter.com/TallinnSec">https://twitter.com/TallinnSec</a> 
+        follow us on Twitter: <a href="https://twitter.com/TallinnSec">https://twitter.com/TallinnSec</a>
     </li>
     <li>
         yeap, we got LinkedIn: <a href="https://www.linkedin.com/company/tallinnsec/">https://www.linkedin.com/company/tallinnsec/</a>
