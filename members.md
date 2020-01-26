@@ -11,7 +11,7 @@ subtitle: Members
 <b>Becoming a member:</b>
  <ul>
     <li>
-        Fill up the membership form at <a href="https://goo.gl/forms/W9Qs6bCGHmu5PR5I3">Google Forms</a>
+        Fill up the membership form at <a href="https://forms.gle/9fsTbUVDZHE2pEqZ9">Google Forms</a>
     </li>
     <li>
         Wait for the approval message along with the membership fee payment information.
