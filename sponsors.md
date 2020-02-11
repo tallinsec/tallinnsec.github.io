@@ -40,6 +40,27 @@ evolve-photo0:
     alt: "Sponsor-kspace"
     end_row: "true"
 
+  - aspect: "0.33"
+    url: "https://ccdcoe.org/"
+    image_path: "/img/Sponsor_logos/ccdcoe.png"
+    alt: "Sponsor-ccdcoe"
+
+  - aspect: "0.33"
+    url: "https://binalyze.com/"
+    image_path: "/img/Sponsor_logos/binalyze.png"
+    alt: "Sponsor-Binalyze"
+
+  - aspect: "0.33"
+    url: "http://www.itcollege.ee/"
+    image_path: "/img/Sponsor_logos/taltech.jpg"
+    alt: "Sponsor-ITCollege"
+
+  - aspect: "0.33"
+    url: "https://rangeforce.com/"
+    image_path: "/img/Sponsor_logos/rangeforce.png"
+    alt: "Sponsor-rangeforce"
+    end_row: "true"
+
 evolve-photo1:
   - aspect: "0.33"
     url: "https://www.solita.fi/"
@@ -108,13 +129,13 @@ evolve-photo1:
 
 
 <div align="center" style="padding-top: 55px; padding-bottom: 33px; font-size: 120%; color: #8e8d8d;">
-  Big thank you to our past sponsors:
+  Big thank you to our past sponsors/meetup room providers:
 </div>
 
 {% include flexgallery id="evolve-photo0"%}
 
 <div align="center" style="padding-top: 55px; padding-bottom: 33px; font-size: 120%; color: #8e8d8d;">
-  and to the independent speakers as well as speakers from:
+  and to the most awesome <a href="https://www.tallinnsec.ee/speakers/">speakers</a> from:
 </div>
 
 {% include flexgallery id="evolve-photo1"%}
