@@ -24,7 +24,8 @@ description:
 # List of links in the navigation bar
 navbar-links:
   Home:
-  About: "about"
+  TallinnSec: "tallinnsec"
+  TartuSec: "tartusec"
   Events: "events"
   Speakers: "speakers"
   Sponsors: "sponsors"
@@ -72,7 +73,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "tallinnsec@protonmail.com"
+  email: "tallinnsecmeetups@ŋmail.com"
 #  facebook: daattali
   github: https://github.com/tallinsec/
   twitter: https://twitter.com/TallinnSec

@@ -39,7 +39,6 @@ TallinnSec team<br>
 <p>
 	Find Us on Twitter: <a href="https://twitter.com/TallinnSec">https://twitter.com/TallinnSec</a><br>
 	Find Us on Facebook: <a href="https://www.facebook.com/tallinnsec/">https://www.facebook.com/tallinnsec/</a><br>
-	See more about Locked Shields: <a href="https://www.youtube.com/watch?v=Dwvc5y1eHdg">https://www.youtube.com/watch?v=Dwvc5y1eHdg</a>
 
 </p>
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "About"
+title: "TallinnSec"
 subtitle: about us ...
 ---
 
-### Who are we? What is TallinnSec? 
+### Who are we? What is TallinnSec?
 
 <p>
-TallinnSec is a nonprofit organization of information security professionals, practitioners and enthusiasts. 
+TallinnSec is a nonprofit organization of information security professionals, practitioners and enthusiasts.
 
 We organize various meetups/events:
  <ul>
@@ -23,7 +23,7 @@ We organize various meetups/events:
     <li>
         to grow a professional network of people just like <b>YOU</b>
     </li>
-  </ul>  
+  </ul>
 </p>
 
 ![Caption](/img/tallinnsec_dubliners.jpg)
