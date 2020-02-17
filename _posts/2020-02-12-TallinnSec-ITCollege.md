@@ -16,6 +16,11 @@ TallinnSec's own event in February from community members to the community.
 </p>
 <hr>
 <p>
+	Powered by:<br>
+	<img src="/img/Sponsor_logos/zone.svg" width="20%">
+	<img src="/img/Sponsor_logos/itkolledz.png" width="20%">
+</p>
+<p>
 	<b>Agenda</b>:
 	<ul>
 		<li>17.45 Gathering & grab a drink</li>

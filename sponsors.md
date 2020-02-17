@@ -40,25 +40,36 @@ evolve-photo0:
     alt: "Sponsor-kspace"
     end_row: "true"
 
+  - aspect: "0.30"
+    url: "https://binalyze.com/"
+    image_path: "/img/Sponsor_logos/binalyze.png"
+    alt: "Sponsor-Binalyze"
+
+  - aspect: "0.30"
+    url: "http://www.zone.ee"
+    image_path: "/img/Sponsor_logos/zone.svg"
+    alt: "Sponsor-zone"
+
+  - aspect: "0.33"
+    url: "http://www.disobey.fi"
+    image_path: "/img/Sponsor_logos/disobey.png"
+    alt: "Sponsor-disobey"
+    end_row: "true"
+
   - aspect: "0.33"
     url: "https://ccdcoe.org/"
     image_path: "/img/Sponsor_logos/ccdcoe.png"
     alt: "Sponsor-ccdcoe"
 
   - aspect: "0.33"
-    url: "https://binalyze.com/"
-    image_path: "/img/Sponsor_logos/binalyze.png"
-    alt: "Sponsor-Binalyze"
+    url: "https://rangeforce.com/"
+    image_path: "/img/Sponsor_logos/rangeforce.png"
+    alt: "Sponsor-rangeforce"
 
   - aspect: "0.33"
     url: "http://www.itcollege.ee/"
     image_path: "/img/Sponsor_logos/taltech.jpg"
     alt: "Sponsor-ITCollege"
-
-  - aspect: "0.33"
-    url: "https://rangeforce.com/"
-    image_path: "/img/Sponsor_logos/rangeforce.png"
-    alt: "Sponsor-rangeforce"
     end_row: "true"
 
 evolve-photo1:
