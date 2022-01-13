@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "You can follow up on us!"
+date:   2022-01-13 09:49:05 +0200
+categories: jekyll update
+---
+As TallinnSec is restarting with the event series, it is important to keep up with us on social media not to miss anything.
+
+Check us out in:
+[Twitter](https://twitter.com/tallinnsec), [Facebook](https://facebook.com/tallinnsec)
+
+or join our Slack channel:
+[Slack](https://join.slack.com/t/tallinnsec/shared_invite/zt-6hjwojh1-e1wdcVuZk_e4fpskMfaXgA)

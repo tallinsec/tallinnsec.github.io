@@ -1,621 +1,165 @@
 <!DOCTYPE html>
-<html lang="en">
-  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+
+
+
+
+<html
+ lang="en"
+ >
   <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
-
-  <title>TallinnSec - Tallinnsec</title>
-
-  <meta name="author" content="TallinnSec" />
-
-  
-  <meta name="description" content="26th Feb TallinnSec at IT College">
-  
-
-  <link rel="alternate" type="application/rss+xml" title="TallinnSec - Tallinnsec" href="/feed.xml" />
-
-  
-
-  
-
-  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
     
-      
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
-
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
     
-  
-
-  
-    
-      <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    
-      <link rel="stylesheet" href="/css/bootstrap-social.css" />
-    
-      <link rel="stylesheet" href="/css/main.css" />
-    
-  
-
-  
-    
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
-    
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-    
-  
-
-  
-
-  
-
-  
-
-    <!-- Facebook OpenGraph tags -->
-  
-
-  
-  <meta property="og:title" content="TallinnSec" />
-  
-
-   
-  <meta property="og:description" content="26th Feb TallinnSec at IT College">
-  
-
-
-  <meta property="og:type" content="website" />
-
-  
-  <meta property="og:url" content="http://localhost:4000/" />
-  <link rel="canonical" href="http://localhost:4000/" />
-  
-
-  
-  <meta property="og:image" content="http://localhost:4000/img/logo.jpg" />
-  
-
-
-  <!-- Twitter summary cards -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@" />
-  <meta name="twitter:creator" content="@" />
-
-  
-  <meta name="twitter:title" content="TallinnSec" />
-  
-
-  
-  <meta name="twitter:description" content="26th Feb TallinnSec at IT College">
-  
-
-  
-  <meta name="twitter:image" content="http://localhost:4000/img/logo.jpg" />
-  
-
-  
-
-</head>
-
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>0xe TallinnSec 2022 | TallinnSec</title>
+<meta name="generator" content="Jekyll v3.9.1" />
+<meta property="og:title" content="0xe TallinnSec 2022" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="TallinnSec is a nonprofit organization of information security professionals, practitioners and enthusiasts. We organize various meetups/events." />
+<meta property="og:description" content="TallinnSec is a nonprofit organization of information security professionals, practitioners and enthusiasts. We organize various meetups/events." />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="TallinnSec" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="0xe TallinnSec 2022" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"http://localhost:4000/","headline":"0xe TallinnSec 2022","description":"TallinnSec is a nonprofit organization of information security professionals, practitioners and enthusiasts. We organize various meetups/events.","name":"TallinnSec","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts --></head>
 
   <body>
+    <nav class="navbar is-primary " x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="navbar-item">
+                TallinnSec
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div class="navbar-start">
+                <a href="/" class="navbar-item is-active">Home</a>
+                
+                
+                    
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/" class="navbar-link ">Meetups</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/products/meetup0xe.html" class="navbar-item ">0xe TallinnSec at Mektory</a>
+                            
+                        </div>
+                    </div>
+                    
+                
+                    
+                    <a href="/about/" class="navbar-item ">Who are we</a>
+                    
+                
+                
+            </div>
 
-    
-  
-    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      
-        <a class="navbar-brand" href="http://localhost:4000">TallinnSec</a>
-      
+            <div class="navbar-end">
+                
+            </div>
+
+        </div>
     </div>
-
-    <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
-      
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/">Home</a>
-
-          </li>
-        
-        
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/tallinnsec">TallinnSec</a>
-
-          </li>
-        
-        
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/tartusec">TartuSec</a>
-
-          </li>
-        
-        
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/events">Events</a>
-
-          </li>
-        
-        
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/speakers">Speakers</a>
-
-          </li>
-        
-        
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/sponsors">Sponsors</a>
-
-          </li>
-        
-        
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/members">Members</a>
-
-          </li>
-        
-        
-        
-          <li>
-            
-
-
-
-
-
-
-<a href="/contacts">Contacts</a>
-
-          </li>
-        
-        
-      </ul>
-    </div>
-
-	
-	<div class="avatar-container">
-	  <div class="avatar-img-border">
-	    <a href="http://localhost:4000 ">
-	      <img class="avatar-img" src="/img/logo.jpg" />
-		</a>
-	  </div>
-	</div>
-	
-
-  </div>
 </nav>
 
-
-    <!-- TODO this file has become a mess, refactor it -->
-
-
-
-
-  <div id="header-big-imgs" data-num-img=1
     
-	  
-	  
-	    
-		  data-img-src-1="/img/universe.jpg"
-		
-	  
+        <section class="hero  is-medium  is-bold is-primary"  style="background: url('/images/tallinnsec2022_1.png') no-repeat center center; background-size: cover;" >
+    <div class="hero-body ">
+        <div class="container">
+            <h1 class="title is-2">0xe TallinnSec 2022</h1>
+            <p class="subtitle is-3">27.01.2022 18.30 at TalTech Mektory</p>
+            
+        </div>
+    </div>
+</section>
     
-  ></div>
+    
 
 
-<header class="header-section has-img">
+    <section class="section">
+        <div class="container">
+            <div class="columns is-multiline">
+                
+                <div class="column is-12">
+                    
+                    
+                    
+                    
+                    <div class="columns is-multiline">
 
-<div class="big-img intro-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>TallinnSec</h1>
-		  
-		    
-            <hr class="small">
-            <span class="page-subheading">26th Feb TallinnSec at IT College</span>
-			
-		  
-		  
-		  
+  <div class="column is-12">
+    TallinnSec took a long break as most of us did during the COVID pandemic, but now, in 2022 we are back with our 1st event of the year- so let's call it a restart.
+
+
+  </div>
+
+  
+
+  
+  <div class="column is-4-desktop is-6-tablet">
+
+    <a href="/products/meetup0xe.html">
+
+      <div class="card">
+
+        
+        <div class="card-image">
+          <figure class="image is-4by3">
+            <img src="../images/cover1.png" alt="0xe TallinnSec at Mektory" />
+          </figure>
+        </div>
+        
+        <div class="card-content">
+
+          <p class="title is-4">0xe TallinnSec at Mektory</h2>
+          <p class="subtitle is-4">sponsored by Ruuvi</p>  
+          <p class="title is-5 has-text-right">27.01.2022 17.30</p>
+
         </div>
       </div>
-    </div>
+
+    </a>
+
   </div>
-  <span class='img-desc'></span>
+
 </div>
 
-<div class="intro-header no-img">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>TallinnSec</h1>
-		  
-		    
-            <hr class="small">
-            <span class="page-subheading">26th Feb TallinnSec at IT College</span>
-			
-		  
-		  
-		  
+
+                </div>
+                
+            </div>
         </div>
-      </div>
-    </div>
-  </div>
-</div>
-</header>
-
-
-
-
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <div class="posts-list">
-  
-  <article class="post-preview">
-    <a href="/2020-02-12-TallinnSec-ITCollege/">
-	  <h2 class="post-title">0xD TallinnSec at IT College</h2>
-
-	  
-	  <h3 class="post-subtitle">
-	    26th of February, 17.45 at IT college ICO-316
-	  </h3>
-	  
-    </a>
-
-    <p class="post-meta">
-      Posted on February 12, 2020
-    </p>
-
-    <div class="post-entry-container">
-      
-      <div class="post-image">
-        <a href="/2020-02-12-TallinnSec-ITCollege/">
-          <img src="/img/itcollege.jpeg">
-        </a>
-      </div>
-      
-      <div class="post-entry">
-        
-TallinnSec's own event in February from community members to the community.
-
-
-
-        
-        
-          <a href="/2020-02-12-TallinnSec-ITCollege/" class="post-read-more">[Read&nbsp;More]</a>
-        
-      </div>
-    </div>
-
+    </section>
     
-
-   </article>
-  
-  <article class="post-preview">
-    <a href="/2019-11-25-TallinnSec-KPMG/">
-	  <h2 class="post-title">0xB TallinnSec hosts a CTF powered by KPMG</h2>
-
-	  
-	  <h3 class="post-subtitle">
-	    5th of December, 17.45 at IT college ICO-316
-	  </h3>
-	  
-    </a>
-
-    <p class="post-meta">
-      Posted on November 25, 2019
-    </p>
-
-    <div class="post-entry-container">
-      
-      <div class="post-image">
-        <a href="/2019-11-25-TallinnSec-KPMG/">
-          <img src="/img/KPMG.png">
-        </a>
-      </div>
-      
-      <div class="post-entry">
-        
-Our last meetup of the 2019 will be a super awesome CTF powered by the KPMG.
-
-
-
+        <footer class="footer">
+    <div class="container">
         
         
-          <a href="/2019-11-25-TallinnSec-KPMG/" class="post-read-more">[Read&nbsp;More]</a>
-        
-      </div>
+
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
     </div>
-
-    
-
-   </article>
-  
-  <article class="post-preview">
-    <a href="/2019-09-24-TallinnSec-CCDCOE/">
-	  <h2 class="post-title">0xA TallinnSec featuring NATO CCDCOE / Cyber Range / Locked Shields</h2>
-
-	  
-	  <h3 class="post-subtitle">
-	    10th October, 18.00 at CR14 (Rävala 14)
-	  </h3>
-	  
-    </a>
-
-    <p class="post-meta">
-      Posted on September 24, 2019
-    </p>
-
-    <div class="post-entry-container">
-      
-      <div class="post-image">
-        <a href="/2019-09-24-TallinnSec-CCDCOE/">
-          <img src="/img/CCDCOE.png">
-        </a>
-      </div>
-      
-      <div class="post-entry">
-        
-New TallinnSec season starts off by introducing you to the CCDCOE (The NATO Cooperative Cyber Defence Centre of Excellence).
-
-
-
-        
-        
-          <a href="/2019-09-24-TallinnSec-CCDCOE/" class="post-read-more">[Read&nbsp;More]</a>
-        
-      </div>
-    </div>
-
-    
-
-   </article>
-  
-  <article class="post-preview">
-    <a href="/2019-04-01-TallinnSec-Transferwise/">
-	  <h2 class="post-title">0x9 TallinnSec goes to Transferwise</h2>
-
-	  
-	  <h3 class="post-subtitle">
-	    29th April, 18.00 at Transferwise
-	  </h3>
-	  
-    </a>
-
-    <p class="post-meta">
-      Posted on April 1, 2019
-    </p>
-
-    <div class="post-entry-container">
-      
-      <div class="post-image">
-        <a href="/2019-04-01-TallinnSec-Transferwise/">
-          <img src="/img/Transferwise/1.png">
-        </a>
-      </div>
-      
-      <div class="post-entry">
-        
-Heya, April meetup will be taking place at Transferwise and we got awesome speakers line up for you. Speakers from Transferwise, F-Secure, GoSecure and Clarified Security come and share their experiences, personal projects on fuzzing and the anatomy of advanced attacks.
-
-
-
-        
-        
-          <a href="/2019-04-01-TallinnSec-Transferwise/" class="post-read-more">[Read&nbsp;More]</a>
-        
-      </div>
-    </div>
-
-    
-
-   </article>
-  
-  <article class="post-preview">
-    <a href="/2019-03-18-TallinnSec-TallinnArtSpace/">
-	  <h2 class="post-title">0x8 TallinnSec meetup - AV evasion/shellcoding/cloud services</h2>
-
-	  
-	  <h3 class="post-subtitle">
-	    30th March, 10.30 @Tallinn Art Space T1 mall
-	  </h3>
-	  
-    </a>
-
-    <p class="post-meta">
-      Posted on March 18, 2019
-    </p>
-
-    <div class="post-entry-container">
-      
-      <div class="post-image">
-        <a href="/2019-03-18-TallinnSec-TallinnArtSpace/">
-          <img src="/img/tas.png">
-        </a>
-      </div>
-      
-      <div class="post-entry">
-        
-We are happy to announce that our this time meetup will be taking place at the Tallinn Art Space in the T1 mall (1 floor). The place was provided for us as part of the sponsorship for which we are very thankful! So we can fit all of you!
-
-
-
-        
-        
-          <a href="/2019-03-18-TallinnSec-TallinnArtSpace/" class="post-read-more">[Read&nbsp;More]</a>
-        
-      </div>
-    </div>
-
-    
-
-   </article>
-  
-</div>
-
-
-<ul class="pager main-pager">
-  
-  
-  <li class="next">
-    <a href="/page2">Older Posts &rarr;</a>
-  </li>
-  
-</ul>
-
-
-	    
-    </div>
-  </div>
-</div>
-
-
-    <footer>
-  <div class="container beautiful-jekyll-footer">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links"><li><a href="mailto:tallinnsecmeetups@ŋmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                </span>
-                <span class="sr-only">Email me</span>
-              </a>
-            </li><li><a href="https://github.com/tallinsec/" title="GitHub"><span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                </span>
-                <span class="sr-only">GitHub</span>
-              </a>
-            </li><li><a href="https://twitter.com/TallinnSec" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-                <span class="sr-only">Twitter</span>
-              </a>
-            </li><li><a href="https://www.linkedin.com/company/tallinnsec/" title="LinkedIn"><span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
-                <span class="sr-only">LinkedIn</span>
-              </a>
-            </li></ul>
-      <p class="copyright text-muted">
-      TallinnSec
-      &nbsp;&bull;&nbsp;
-      2020
-
-      
-
-      
-      </p>
-          <!-- Please don't remove this, keep my open source work credited :) -->
-    <p class="theme-by text-muted">
-      Theme by
-      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-    </p>
-      </div>
-    </div>
-  </div>
 </footer>
 
-  
     
-
-
-
-
-
-
-  
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    
-      <script>
-      	if (typeof jQuery == 'undefined') {
-      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
-      	}
-      </script>
-    
-  
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    
-	<script src="/js/bootstrap.min.js"></script>
-    
-  
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    
-	<script src="/js/main.js"></script>
-    
-  
-
-
-
-
-  
-  </body>
+    <script src="/assets/js/app.js" type="text/javascript"></script><!-- footer scripts --></body>
 </html>
