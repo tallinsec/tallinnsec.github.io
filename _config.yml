@@ -23,7 +23,7 @@ email: tallinnsecmeetups@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   TallinnSec is a nonprofit organization of information security professionals, practitioners and enthusiasts. We organize various meetups/events.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tallinnsec.ee" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://tallinnsec.ee" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
