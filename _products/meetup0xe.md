@@ -14,7 +14,7 @@ features:
       icon: fa-battery-three-quarters
     - label: 18.00 "TBD Topic" Otso Jousimaa, Ruuvi Innovations Ltd (Oy)
       icon: fa-battery-half
-    - label: 18.45 TBD Topic Firstname Lastname
+    - label: 18.45 "TBD Topic" Speaker TBC
       icon: fa-battery-quarter
     - label: 19.00 "Vulnerability assessment on autonomous vehicles" - Andrew Roberts (TalTech) 
       icon: fa-battery-empty
