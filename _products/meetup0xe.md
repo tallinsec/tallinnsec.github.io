@@ -6,17 +6,17 @@ hero_image: ../images/tallinnsec2022_1.png
 product_code: Mektory MEK-031
 layout: product
 image: ../images/cover1.png
-price: 27.01.2022 17.30
+price: 27.01.2022 17.30-20:00
 features:
     - label: 17.30 Gathering & grab a drink
       icon: fa-battery-full
     - label: 17.45 Introduction by TallinnSec - what's new
       icon: fa-battery-three-quarters
-    - label: 18.00 TBD Topic Otso Jousimaa, Ruuvi Innovations Ltd (Oy)
+    - label: 18.00 "TBD Topic" Otso Jousimaa, Ruuvi Innovations Ltd (Oy)
       icon: fa-battery-half
-    - label: 18.45 TBD Topic Firstname Lastname, ABC (Oy)
+    - label: 18.45 TBD Topic Firstname Lastname
       icon: fa-battery-quarter
-    - label: 19.00 TBD Topic Firstname Lastname, ABC (Oy)
+    - label: 19.00 "Vulnerability assessment on autonomous vehicles" - Andrew Roberts (TalTech) 
       icon: fa-battery-empty
     - label: 19.45 Closing at Mektory, beers & chill in Old Town
       icon: fa-spinner fa-spin
@@ -34,9 +34,9 @@ TallinnSec comes with a new wave of energy and we are happy to announce our very
 
 **Speaker bio:**
 
-- Otso Jousimaa -
-- Person 2 - asd
-- Person 3 - asd
+- Otso Jousimaa - Ruuvi Innovations Ltd (Oy)
+- Person 2 - TBC
+- Andrew Roberts - Junior Researcher @TalTech working on Cybersecurity related to Autnomous Vehicles 
 
 PS! We are always looking for speakers/workshops/tool reviews etc for all our coming events. If you want to share something awesome with our community contact us at tallinnsecmeetups[at]gmail.com
  
