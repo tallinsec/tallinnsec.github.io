@@ -14,9 +14,9 @@ features:
       icon: fa-battery-three-quarters
     - label: 18.00 "TBD Topic" Otso Jousimaa, Ruuvi Innovations Ltd (Oy)
       icon: fa-battery-half
-    - label: 18.45 "TBD Topic" Speaker TBC
+    - label: 18.45 "SOC-2 type Compliance" Viljar Bauman (Veriff)
       icon: fa-battery-quarter
-    - label: 19.00 "Vulnerability assessment on autonomous vehicles" - Andrew Roberts (TalTech) 
+    - label: 19.00 "Vulnerability assessment on autonomous vehicles" - Andrew Roberts (FinEst Smart City Center of Excellence) 
       icon: fa-battery-empty
     - label: 19.45 Closing at Mektory, beers & chill in Old Town
       icon: fa-spinner fa-spin
@@ -34,9 +34,9 @@ TallinnSec comes with a new wave of energy and we are happy to announce our very
 
 **Speaker bio:**
 
-- Otso Jousimaa - Ruuvi Innovations Ltd (Oy)
-- Person 2 - TBC
-- Andrew Roberts - Junior Researcher @TalTech working on Cybersecurity related to Autnomous Vehicles 
+- Otso Jousimaa (Ruuvi Innovations Ltd (Oy)- "Topic TBD"
+- Viljar Bauman (Veriff) - "SOC-2 Type Compliance" 
+- Andrew Roberts (FinEst Smart City Center of Excellence) - "Cybersecurity related to Autnomous Vehicles"
 
 PS! We are always looking for speakers/workshops/tool reviews etc for all our coming events. If you want to share something awesome with our community contact us at tallinnsecmeetups[at]gmail.com
  
