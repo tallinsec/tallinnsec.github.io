@@ -21,7 +21,7 @@ features:
     - label: 19.45 Closing at Mektory, beers & chill in Old Town (Location TBD)
       icon: fa-spinner fa-spin
     
----
+
 **Speaker bio:**
 
 - Otso Jousimaa - Ruuvi Innovations Ltd (Oy)
@@ -44,3 +44,4 @@ TallinnSec team
 
 * Find Us on Twitter: <https://twitter.com/TallinnSec>
 * Find Us on Facebook: <https://www.facebook.com/tallinnsec/>
+---
