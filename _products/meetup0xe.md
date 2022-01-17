@@ -8,25 +8,20 @@ layout: product
 image: ../images/cover1.png
 price: 27.01.2022 17.30-20:00
 features:
-    - label: 17.30 Gathering & grab a drink+pizzas
+    - label: 17.30 Gathering & grab a drink
       icon: fa-battery-full
-    - label: 17.45 Introduction by TallinnSec - what's new (Matis Palm)
+    - label: 17.45 Introduction by TallinnSec - what's new
       icon: fa-battery-three-quarters
-    - label: 18.00 "European IoT Cybersecurity Standard: Manufacter point of view" Otso Jousimaa, Ruuvi Innovations Ltd (Oy)
+    - label: 18.00 "European IoT Cybersecurity Standard" Otso Jousimaa, Ruuvi Innovations Ltd (Oy)
       icon: fa-battery-half
     - label: 18.45 "SOC-2 type Compliance" Viljar Bauman (Veriff)
       icon: fa-battery-quarter
     - label: 19.00 "Vulnerability assessment on autonomous vehicles" - Andrew Roberts (FinEst Smart City Center of Excellence) 
       icon: fa-battery-empty
-    - label: 19.45 Closing at Mektory, beers & chill in Old Town (Location TBD)
+    - label: 19.45 Closing at Mektory, beers & chill in Old Town
       icon: fa-spinner fa-spin
+    
 ---
-
-**Speaker bio:**
-
-- Otso Jousimaa - Ruuvi Innovations Ltd (Oy)
-- Person 2 - TBC
-- Andrew Roberts - Junior Researcher @TalTech working on Cybersecurity related to Autnomous Vehicles 
 
 TallinnSec comes with a new wave of energy and we are happy to announce our very first event in 2022. Gotta admit, it took us a while to get back on our feet :D. The January event is kindly sponsored by Ruuvi Innovations Ltd (Oy). 
 
@@ -36,6 +31,12 @@ TallinnSec comes with a new wave of energy and we are happy to announce our very
 * Parking available in front of the building or across the street in TalTech parking location <https://goo.gl/maps/eq4h1UWHrN5UjLPP6>
 * **Required** : COVID-19 vaccination certificate (Will be checked on the door together with your ID)
 
+
+**Speaker bio:**
+
+- Otso Jousimaa (Ruuvi Innovations Ltd (Oy)- "Topic TBD"
+- Viljar Bauman (Veriff) - "SOC-2 Type Compliance" 
+- Andrew Roberts (FinEst Smart City Center of Excellence) - "Cybersecurity related to Autnomous Vehicles"
 
 PS! We are always looking for speakers/workshops/tool reviews etc for all our coming events. If you want to share something awesome with our community contact us at tallinnsecmeetups[at]gmail.com
  
