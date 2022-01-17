@@ -22,6 +22,11 @@ features:
       icon: fa-spinner fa-spin
     
 ---
+**Speaker bio:**
+
+- Otso Jousimaa - Ruuvi Innovations Ltd (Oy)
+- Person 2 - TBC
+- Andrew Roberts - Junior Researcher @TalTech working on Cybersecurity related to Autnomous Vehicles 
 
 TallinnSec comes with a new wave of energy and we are happy to announce our very first event in 2022. Gotta admit, it took us a while to get back on our feet :D. The January event is kindly sponsored by Ruuvi Innovations Ltd (Oy). 
 
