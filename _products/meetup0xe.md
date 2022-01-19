@@ -14,7 +14,7 @@ features:
       icon: fa-battery-three-quarters
     - label: 18.00 "European IoT Cybersecurity Standard" Otso Jousimaa, Ruuvi Innovations Ltd (Oy)
       icon: fa-battery-half
-    - label: 18.45 "SOC-2 type Compliance" Viljar Bauman (Veriff)
+    - label: 18.45 "SOC-2 Compliance" Viljar Bauman (Veriff)
       icon: fa-battery-quarter
     - label: 19.00 "Vulnerability assessment on autonomous vehicles" - Andrew Roberts (FinEst Smart City Center of Excellence) 
       icon: fa-battery-empty
