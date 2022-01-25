@@ -1,7 +1,16 @@
 - name: Meetups
   link: /#
   dropdown:
-    - name: 0xe TallinnSec at Mektory
+    - name: 0xe TallinnSec sponsored by Ruuvi
       link: /products/meetup0xe.html
+    - name: 0xd TallinnSec sponsored by Zone
+      link: /products/meetup0xd.html
+    - name: 0xd TallinnSec CTF powered by KPMG
+      link: /products/meetup0xb.html
+- name: Speakers
+  link: /speakers/
+- name: Sponsors
+  link: /sponsors/
 - name: Who are we
   link: /about/
+

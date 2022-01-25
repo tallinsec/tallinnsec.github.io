@@ -3,10 +3,11 @@ title: 0xe TallinnSec at Mektory
 subtitle: sponsored by Ruuvi
 description: 0xe TallinnSec meetup at Mektory sponsored by Ruuvi
 hero_image: ../images/tallinnsec2022_1.png
-product_code: Mektory MEK-031
+product_code: 'Mektory MEK-031'
 layout: product
 image: ../images/cover1.png
-price: 27.01.2022 17.30-20:00
+sorttag: 100
+price: 27.01.2022
 features:
     - label: 17.30 Gathering & grab a drink
       icon: fa-battery-full

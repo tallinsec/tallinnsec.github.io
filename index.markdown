@@ -8,7 +8,11 @@ layout: product-category
 show_sidebar: false
 toc: false
 hero_image: /images/tallinnsec2022_1.png
+sort: sorttag
 ---
 
 TallinnSec took a long break as most of us did during the COVID pandemic, but now, in 2022 we are back with our 1st event of the year- so let's call it a restart.
 
+<html>
+<h1>Upcoming & Past Events</h1>
+</html>
