@@ -34,15 +34,16 @@ img {
 
 <div class="row">
 	<div class="column">
+		<img src="../images/Sponsor_logos/ruuvi.jpg">
 	    <img src="../images/Sponsor_logos/transferwise.png">
 	    <img src="../images/Sponsor_logos/binalyze.png">
 	    <img src="../images/Sponsor_logos/ccdcoe.png">
 	    <img src="../images/Sponsor_logos/nixu.svg">
 	    <img src="../images/Sponsor_logos/cs.png">
-	    <img src="../images/Sponsor_logos/disobey.png">    
-	    <img src="../images/Sponsor_logos/hackerone_logo_gray.png">  
+	    <img src="../images/Sponsor_logos/disobey.png">
 	</div>
 	<div class="column">
+		<img src="../images/Sponsor_logos/hackerone_logo_gray.png">  
 		<img src="../images/Sponsor_logos/rangeforce.png">
 	    <img src="../images/Sponsor_logos/Silverskin.png">
 	    <img src="../images/Sponsor_logos/gosecure.png">
